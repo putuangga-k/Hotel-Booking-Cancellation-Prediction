@@ -80,7 +80,7 @@ This project aims to predict whether a hotel booking will be canceled using mach
 ## Installation
 
 ```bash
-git clone <repo_url>
+git clone <https://github.com/putuangga-k/Hotel-Booking-Cancellation-Prediction.git>
 cd hotel-cancellation-predictor
 pip install -r requirements.txt
 ```
