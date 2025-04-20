@@ -17,7 +17,7 @@ model_pipeline = load_model()
 st.title("Hotel Booking Cancellation Predictor")
 st.markdown(
     """
-    Fill in the booking details below and click **Predict** to see 
+    Fill in the booking details below and click on **Predict** to see 
     the probability of cancellation.
     """
 )
